@@ -1,0 +1,21 @@
+
+@media screen and (max-width: 767px) {
+    .cartBtn{
+        display: none;
+    }
+  }
+
+  @media (max-width:320px)
+  {
+    .iconTogg{
+        margin-left: 90px;
+    }
+  }
+
+  @media (min-width:321px) and (max-width:426px)
+  {
+    .iconTogg{
+        margin-left: 150px;
+    }
+    
+  }
